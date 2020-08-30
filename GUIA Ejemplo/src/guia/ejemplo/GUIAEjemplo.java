@@ -17,8 +17,6 @@ public class GUIAEjemplo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Guia");
-        
-        System.out.println("Chao Guia");
     }
     
 }
